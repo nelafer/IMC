@@ -1,0 +1,4 @@
+for numero in range ('0,31,2') vai de 0 ate 30,pula
+if numero in [('10,20,30')]
+continue 
+print(numero)
